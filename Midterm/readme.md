@@ -48,7 +48,7 @@ Link to NYT developer docs : [NYT API Documentation](http://developer.nytimes.co
 - Store the data in your local machine.
 - Your analysis should use **this downloaded data only** (and not try to redownload this data again during analysis time).
 -  There is a rate limit for downloading the data. I would suggest you to start collecting the data from day 1. You can try using multiple account to get more than 1 key.
--  You need to use atleast 2 API method eg: `archive`, `Article Search`. **Do not use** `Movies Review`, `Semantic` API.
+-  You need to use at least 2 API method eg: `Archive`, `Article Search`. **Do not use** `Movies Review`, `Semantic` API.
 
 ---
 
